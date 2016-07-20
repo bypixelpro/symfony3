@@ -1,0 +1,3 @@
+pixelpro_hola_mundo:
+  path: /holamundo
+  defaults: { _controller: PixelproHolaMundoBundle:Default:index}

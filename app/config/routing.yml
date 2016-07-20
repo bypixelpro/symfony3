@@ -1,0 +1,11 @@
+pixelpro_mis_cursos:
+    resource: "@PixelproMisCursosBundle/Resources/config/routing.yml"
+    prefix:   /
+
+pixelpro_hola_mundo:
+    resource: "@PixelproHolaMundoBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
